@@ -1,2 +1,10 @@
 # tech-gallery
-https://github.com/nyu-csci-ua-0480-008-spring-2020/devinlewtan-homework05.git
+
+Goals/Topics Covered
+* working with HTML <form>'s
+* working with query strings
+* handling POST and redirects
+  
+Description
+
+Extend a basic web application built with express and handlebars to include search functionality and the ability to add new data via HTML forms. 
